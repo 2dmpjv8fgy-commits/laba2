@@ -16,7 +16,9 @@
 
 Команда: `$ git init`
 <details>
-<summary>hint: Using 'master' as the name for the initial branch. This default branch name
+<summary>Вывод</summary>
+```bash
+hint: Using 'master' as the name for the initial branch. This default branch name
 hint: will change to "main" in Git 3.0. To configure the initial branch name
 hint: to use in all of your new repositories, which will suppress this warning,
 hint: call:
@@ -29,7 +31,9 @@ hint:
 hint: 	git branch -m <name>
 hint:
 hint: Disable this message with "git config set advice.defaultBranchName false"
-Инициализирован пустой репозиторий Git в /Users/aleksandrgolikov/workspace/projects/laba2/.git/</summary>
+Инициализирован пустой репозиторий Git в /Users/aleksandrgolikov/workspace/projects/laba2/.git/
+```
+</details>
 
 ```bash
 $ git init
